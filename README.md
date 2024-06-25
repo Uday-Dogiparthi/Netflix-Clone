@@ -3,6 +3,7 @@
 - The primary aim of this project was to practice and demonstrate proficiency in HTML and CSS by recreating a familiar and complex user interface.
 
 - Check out the project to see the design in action and explore the code behind it!
+- -Demo : https://netflix-clone-lovat-ten.vercel.app/
 
 
 # Technologies Used:
