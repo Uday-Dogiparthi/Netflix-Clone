@@ -3,7 +3,7 @@
 - The primary aim of this project was to practice and demonstrate proficiency in HTML and CSS by recreating a familiar and complex user interface.
 
 - Check out the project to see the design in action and explore the code behind it!
--  DEMO : http://192.168.12.166:5500/index.html
+
 
 # Technologies Used:
 
