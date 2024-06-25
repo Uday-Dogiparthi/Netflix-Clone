@@ -7,9 +7,9 @@
 
 # Technologies Used:
 
-- HTML5: For the structure and layout of the webpage.
+- HTML5:  For the structure and layout of the webpage.
 
-- CSS3: For styling, layout adjustments, and responsive design.
+- CSS3:  For styling, layout adjustments, and responsive design.
 
 
 
