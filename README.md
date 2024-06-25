@@ -5,7 +5,7 @@
 - Check out the project to see the design in action and explore the code behind it!
 - Demo : https://netflix-clone-lovat-ten.vercel.app/
                     OR
-  -DEMO : https://super-cassata-af3b27.netlify.app/
+   https://super-cassata-af3b27.netlify.app/
 
 
 # Technologies Used:
